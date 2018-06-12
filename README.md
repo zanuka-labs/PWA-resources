@@ -1,5 +1,7 @@
 # Rise of the PWA
 
+Just some info on Progressive Web Apps, resources, checklists, etc...
+
 ## Web vs Native Apps
 
 ### Native Pros
